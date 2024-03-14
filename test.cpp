@@ -6,6 +6,7 @@ int main(){
     setlocale(LC_ALL, "Rus");
     int radius;
     int angle;
+    int a;
 
     cout << "Введите радиус окружности: ";
     cin >> radius;
